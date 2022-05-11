@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mashael</h1>
 <h3 align="center">Programmer Front end. I’m currently learning data analysis</h3>
 
+- My projects in C++ [Project C++](https://github.com/MashaelHA/Projects-Level-1-2)
+
+- My Project in Database [Project Database](https://github.com/MashaelHA/Project-SQL)
+
+- 📫 How to reach me **mashailhalasmari@gmail.com**
+
 - 📄 Know about me more [https://cdn.me-qr.com/pdf/6333832.pdf](https://cdn.me-qr.com/pdf/6333832.pdf)
 
 <h3 align="left">Connect with me:</h3>
