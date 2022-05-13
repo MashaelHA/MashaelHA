@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mashailhalasmari@gmail.com**
 
-- 📄 Know about me more [https://cdn.me-qr.com/pdf/6333832.pdf](https://cdn.me-qr.com/pdf/6333832.pdf)
+- 📄 Know about me more [https://cdn.me-qr.com/pdf/6390594.pdf](https://cdn.me-qr.com/pdf/6390594.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
