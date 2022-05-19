@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mashael</h1>
-<h3 align="center">Programmer Front end. I’m currently learning data analysis</h3>
+<h3 align="center">I am a computer science student interested in web programming and data analysis</h3>
 
 - My projects in C++ [Project C++](https://github.com/MashaelHA/Projects-Level-1-2)
 
@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mhm_14151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhm_14151" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mashael-alasmari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mashael-alasmari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mashael-alasmari-154bb918b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mashael-alasmari-154bb918b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
