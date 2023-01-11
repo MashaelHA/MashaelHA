@@ -29,9 +29,6 @@
 
 
 
-
-
-
 <!-- <h1 align="center">Hi 👋, I'm Mashael</h1>
 <h3 align="center">I am a computer science student interested in web programming and data analysis</h3>
 
