@@ -21,14 +21,22 @@
 <p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mashaelha&&show_icons=true&theme=dark" alt="mashaelha" /></p>
 
 
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mashaelha&&show_icons=true&theme=dark&langs_count=10&layout=compact&exclude_repo=[{'Project-NLP'},{'AI-project'},]" alt="mashaelha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mashaelha&show_icons=true&locale=en&theme=dark" alt="mashaelha" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mashaelha&&show_icons=true&theme=dark&" alt="mashaelha" /></p>
+ -->
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mashaelha&theme=dark" alt="mashaelha" /></p>
 
 
 
+<!-- 
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mashaelha&repo=github-readme-stats)](https://github.com/mashaelha/github-readme-stats)
 
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mashaelha&repo=github-readme-stats" alt="mashaelha" /></p>
+
+ -->
 
 
 
