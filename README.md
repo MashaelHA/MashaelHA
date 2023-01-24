@@ -18,7 +18,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mashaelha&&show_icons=true&theme=dark" alt="mashaelha" /></p>
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mashaelha&&show_icons=true&theme=vision-friendly-dark" alt="mashaelha" /></p>
 
 
 
