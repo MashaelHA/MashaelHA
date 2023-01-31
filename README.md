@@ -29,7 +29,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mashaelha&theme=dark" alt="mashaelha" /></p>
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashaelha&&show_icons=true&theme=dark&langs_count=10&layout=compact&exclude_repo=[{'Project-NLP'},{'AI-project'},]" alt="mashaelha" /></p>
 
 
