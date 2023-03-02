@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mashael Alasmari</h1>
-<h3 align="center">I am a computer science student interested in web programming</h3>
+<h3 align="center">I am a Fresh Graduate computer science interested in web programming</h3>
 
 <p align="left"> <a href="https://twitter.com/mhm_14151" target="blank"><img src="https://img.shields.io/twitter/follow/mhm_14151?logo=twitter&style=for-the-badge" alt="mhm_14151" /></a> </p>
 
